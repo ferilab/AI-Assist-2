@@ -1,0 +1,14 @@
+Product: Automatic Ultrasonic Testing Machine
+Description: Industrial NDT equipment for automated ultrasonic inspection.
+
+Product: Gamma and X-ray Crawler
+Description: Remote-controlled crawler for gamma and X-ray inspection.
+
+Product: Smart Lift Manipulator
+Description: Robotic lifting and positioning system.
+
+Product: Topaz
+Description: Best quality irradiated blue gen stone.
+
+Service: NDT Services
+Description: Non-destructive testing services.

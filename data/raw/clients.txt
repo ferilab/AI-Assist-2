@@ -1,0 +1,17 @@
+Client: Butan
+Industry: The biggest manufacturer of different ccompressed gas cylinders.
+
+Client: Abedi Machinery
+Industry: Heavy Industrial Equipment and CNG cylinders.
+
+Client: Tehran Municipality
+Industry: Public Sector
+
+Client: Tak Macaron
+Industry: Food Production
+
+Client: Ghom Cane and Sugar
+Industry: Agriculture and food Production
+
+Client: Mehrabad Airport
+Industry: Aviation and Travel
